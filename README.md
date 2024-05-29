@@ -1,5 +1,7 @@
 # LLM_RAG
 
+https://www.linkedin.com/pulse/unlocking-power-retrieval-augmented-generation-rag-llama-parashar-zgu0f
+
 RAG-based LLM model to query AI topics. The model is based on the following resources:
 
 As shared by John Carmack, Ilya Sutskever of OpenAI provided him with an essential reading list of around 30 research papers, remarking, "If you really learn all of these, you’ll know 90% of what matters today in AI."
